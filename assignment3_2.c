@@ -22,5 +22,6 @@ void  main(void)
 			print("%d is an odd number\n", i);
 		}
 	}
+	// you cant return anything remember you used void for your function
 	return (0);
 }
